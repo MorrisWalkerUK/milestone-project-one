@@ -39,6 +39,7 @@
   - [Structure](#structure)
     - [Information Architecture](#information-architecture)
     - [Navigation Bar](#navigation-bar)
+  - [Wireframes](#wireframes)
 - [Features](#features)
   - [Current Features](#current-features)
     - [Responsive on all device sizes](#responsive-on-all-device-sizes)
@@ -125,6 +126,10 @@
 
 ### Navigation Bar
 - Each page features the navbar, allowing the user to easily navigate between them without needing to go back to the homepage.
+
+## Wireframes
+
+To view wireframe/workspaces/milestone-project-one/Wireframe for Milestone 1.pdf
 
 
 
