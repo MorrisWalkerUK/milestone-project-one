@@ -129,7 +129,7 @@
 
 ## Wireframes
 
-To view wireframe/workspaces/milestone-project-one/Wireframe for Milestone 1.pdf
+To view wireframe /workspaces/milestone-project-one/Wireframe_for_Milestone_1.pdf
 
 
 
