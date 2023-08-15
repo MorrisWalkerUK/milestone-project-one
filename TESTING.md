@@ -19,6 +19,8 @@ The Row Gallery website has been tested using the following methods:
 
 The website passed all tests using the W3C HTML Validator tool.  There were some warnings but nothing of any significance.
 
+<a href="/Nu Html Checker Milestone 1.pdf">To view the HTML Validator report click here</a>
+
 ### Home Page
 <h2 align="center"><img src=""></h2>
 
@@ -27,7 +29,7 @@ The website passed all tests using the W3C HTML Validator tool.  There were some
 
 The website passed all tests using the W3C CSS Validator tool
 
-<a href="/MorrisWalkerUK/milestone-project-one/blob/main/ Wireframe_for_Milestone_1.pdf">View my wireframes in PDF form here.</a>
+<a href="/W3C CSS Validation milestone-project-one.pdf">To view the HTML Validator report click here</a>
 
 # Browser Compatibility
 
