@@ -1,7 +1,7 @@
 # Provide Home Solutions Website 
 ## Milestone Project 1 - Static Front-End Website
 
-<a href="/assets/img/readme-provide-home-page.png">Home page image.</a>
+<a href="/assets/img/readme-provide-home-page.png">To view the primary home page image click here</a>
 
 
 * Provide Home Solutions web site is a re-imagining of an old commercial web site based in Hereford, UK.  The aim of the Provide Home Solutions website is to appeal mostly to new commercial and domestic prospects.  It also will serve as reference point for existing customers who need to remember contact details or who wish to recommend interested parties to.  The website is designed to be responsive so that it is user-friendly and looks appealing on any device.
