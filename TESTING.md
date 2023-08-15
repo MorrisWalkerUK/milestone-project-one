@@ -29,7 +29,7 @@ The website passed all tests using the W3C HTML Validator tool.  There were some
 
 The website passed all tests using the W3C CSS Validator tool
 
-<a href="/W3C CSS Validation milestone-project-one.pdf">To view the HTML Validator report click here</a>
+<a href="/W3C CSS Validation milestone-project-one.pdf">To view the CSS Validator report click here</a>
 
 # Browser Compatibility
 
