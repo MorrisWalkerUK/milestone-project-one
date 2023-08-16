@@ -44,7 +44,7 @@
   - [Current Features](#current-features)
     - [Responsive on all device sizes](#responsive-on-all-device-sizes)
   - [Future Features](#future-features)
-    - [Non planned](#non-planned)
+    - [None planned](#none-planned)
 - [Technologies Used](#technologies-used)
   - [Languages Used](#languages-used)
   - [Frameworks Libraries and Programs](#frameworks-libraries-and-programs)
@@ -129,7 +129,8 @@
 
 ## Wireframes
 
-To view wireframe /workspaces/milestone-project-one/Wireframe_for_Milestone_1.pdf
+
+    <a href="/Wireframe_for_Milestone_1.pdf">View my wireframes in PDF form here.</a>
 
 
 
@@ -144,7 +145,7 @@ To view wireframe /workspaces/milestone-project-one/Wireframe_for_Milestone_1.pd
 
 ## Future Features
 
-### Non planned
+### None planned
 
 # Technologies Used
 
