@@ -129,9 +129,7 @@
 
 ## Wireframes
 
-
-    <a href="/Wireframe_for_Milestone_1.pdf">View my wireframes in PDF form here.</a>
-
+<a href="/Wireframe_for_Milestone_1.pdf">To view my wireframes in PDF form click here</a>
 
 
 # Features

@@ -48,23 +48,23 @@ Appearance, functionality and responsiveness were largely consistent across brow
 
 * These are users considering new property builds, improvements to existing property or need maintenance to an existing property.  They can be from a commercial or domestic perspective.
 
--	The design aims to be suitable for both a commercial and domestic enquiries.  The trust elements are common to both prospects and a high level list of services are shown at the bottom of the home page.  If the site was to be launched to the world then I expect there would be another layer of pages to be more specific about each service area.
+    -	The design aims to be suitable for both a commercial and domestic enquiries.  The trust elements are common to both prospects and a high level list of services are shown at the bottom of the home page.  If the site was to be launched to the world then I expect there would be another layer of pages to be more specific about each service area.
 
 * As a prospective visitor I would like to see the services available. 
   
--	the home page focuses on the key messages of trust and key services.  The design was kept clean and uncluttered to ensure the marketing messages are visible and easy to read.  
+    -	the home page focuses on the key messages of trust and key services.  The design was kept clean and uncluttered to ensure the marketing messages are visible and easy to read.  
 
 * As a prospective visitor I would like to understand the reputation of the business.
   
--	the reputation and trust aspects are central to the home page and are intended to give the comfort that a prospect would be looking for.
+    -	the reputation and trust aspects are central to the home page and are intended to give the comfort that a prospect would be looking for.
 
 * As a prospective visitor I would like to see examples of the work already done.
   
--	A gallery of examples are available for prospects to view.  Then it is made easy to contact the business either by phone or email.
+    -	A gallery of examples are available for prospects to view.  Then it is made easy to contact the business either by phone or email.
 
 * As a prospective visitor I would like to be able to contact the business if I have any questions.
   
--	The contact details aim to make it as easy as possible to contact the business.  Direct phone numbers are provided.  The aim is to give a fast response to any enquiry.
+    -	The contact details aim to make it as easy as possible to contact the business.  Direct phone numbers are provided.  The aim is to give a fast response to any enquiry.
 
 
 
@@ -77,7 +77,7 @@ Appearance, functionality and responsiveness were largely consistent across brow
 * As a commercial contract manager, I would like to be able to make a request for information or make a request for proposal.
 * As a contract manager, I would like to be able to arrange a consultation either in person or virtually. 
 
--   I believe all of the commercial business enquiries needs are served by the design.
+    - I believe all of the commercial business enquiries needs are served by the design.
 
 ### Domestic customers
 
@@ -88,7 +88,7 @@ Appearance, functionality and responsiveness were largely consistent across brow
 * As a homeowner, I would like to be able to make a request for information or make a request for proposal.
 * As a homeowner, I would like to be able to arrange a consultation either in person or virtually. 
 
-- I believe all of the domestic customer enquiries needs are served by the design.
+    - I believe all of the domestic customer enquiries needs are served by the design.
 
 ## Business Owners
      
