@@ -40,7 +40,7 @@ No issues arose during browser testing. CSS transitions worked on all browsers t
 Appearance, functionality and responsiveness were largely consistent across browsers and devices. Exceptions include:
 - The Lato font appearance changes quite a lot on mobile and iPad compared to desktop. I researched this and found this is a common experience. 
 
-- Appearance on a PC or a laptop
+* Appearance on a PC or a laptop
 
 <img
   src="assets/img/PC home page top half.png"
@@ -48,11 +48,11 @@ Appearance, functionality and responsiveness were largely consistent across brow
   title="Home Page - top half"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
-- Appearance on a mobile phone
+* Appearance on a mobile phone
 
-<img align="left" width="200" src="assets/img/mobile home page 1of3.PNG">
-<img align="left" width="200" src="assets/img/mobile home page 2of3.PNG">
-<img align="left" width="200" src="assets/img/mobile home page 3of3.PNG">
+<img align="left" width="300" src="assets/img/mobile home page 1of3.PNG">
+<img align="left" width="300" src="assets/img/mobile home page 2of3.PNG">
+<img align="left" width="300" src="assets/img/mobile home page 3of3.PNG">
 
 
 # Testing User Stories
