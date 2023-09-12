@@ -111,7 +111,7 @@
 - The pages feature slightly different image layouts, due to the type of images that need to be displayed. The home page features a clear picture of work at its best.  When describing the types of service an image of a construction site is used in the background in a subtle manner.
 
 <img
-  src="../assets/img/PC home page top half.png"
+  src="assets/img/PC home page top half.png"
   alt="Home page top half image"
   title="Home Page - top half"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
