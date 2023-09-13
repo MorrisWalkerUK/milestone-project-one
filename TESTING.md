@@ -52,9 +52,9 @@ Appearance, functionality and responsiveness were largely consistent across brow
 - Appearance on a mobile phone
 
 <p align="left">
-<img width="300" src="assets/img/mobile home page 1of3.PNG">
-<img width="300" src="assets/img/mobile home page 2of3.PNG">
 <img width="300" src="assets/img/mobile home page 3of3.PNG">
+<img width="300" src="assets/img/mobile home page 2of3.PNG">
+<img width="300" src="assets/img/mobile home page 1of3.PNG">
 </p>
 <p align="center">
 <img width="300" src="assets/img/mobile gallery.PNG">
